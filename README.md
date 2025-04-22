@@ -6,8 +6,8 @@ Coming Soon – You can deploy it on Streamlit Cloud or Vercel.
 
 # ✨ Features
 
-. ✅ Clean, Google-style UI
-. 🔢 Convert between dozens of units
+* ✅ Clean, Google-style UI
+* 🔢 Convert between dozens of units
 🌡️ Special handling for Temperature units
 🧠 Smart layout using Streamlit
 📱 Responsive and user-friendly
